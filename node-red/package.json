@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "bcryptjs": "2.4.3",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.1.1",
     "full-icu": "1.4.0",
     "node-red": "2.2.2",
     "node-red-contrib-alexa-home-skill": "0.1.19",
